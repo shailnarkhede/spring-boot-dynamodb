@@ -1,1 +1,1 @@
-# spting-boot-dynamodb
+# spring-boot-dynamodb
